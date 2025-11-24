@@ -23,6 +23,10 @@ Built using the **ELT** approach:
 * Late payment behavior has been steady since 2019 (~7–9% annually).
 * Some new or low-spending customers exhibit repeated delinquency and may require credit limit adjustments.
 
+## 👥 Customer Overview
+
+![Customer Overview Screenshot](Customer_Overview_Screenshot.png)
+
 ## 🧰 Tools
 
 * **PostgreSQL** - Data loading, validation, profiling, and transformation (SQL)
